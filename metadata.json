@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Painel RH - Controle de Horas",
+  "description": "Dashboard administrativo para controle de horas de colaboradores, baseado em estrutura MVC.",
+  "requestFramePermissions": []
+}
